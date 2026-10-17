@@ -28,5 +28,5 @@
 
 ## Danh sách màn hình 
 
-![alt text](image.png)
+![alt text](GiaoDienTongQuat.png)
 
